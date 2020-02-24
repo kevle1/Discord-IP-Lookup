@@ -7,3 +7,5 @@ Requires
 - Discord bot token from developer portal.
 
 Uses http://ip-api.com for IP lookup. 
+
+![Example Embed](https://i.imgur.com/nMzerLK.png)
