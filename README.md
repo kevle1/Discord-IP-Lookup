@@ -1,5 +1,5 @@
 # Discord IP Lookup Bot
-Checks for messages sent to Discord server containing an IP and looks up according information. Sending embed with details to channel message sent. 
+Checks for messages sent to Discord server containing an IP and looks up according information. Sending embed with details to channel message sent. Supports multiple IPs in single message, provides temperature at given IP location. 
 
 **Requires:**
 - Python 3.6 or later.
