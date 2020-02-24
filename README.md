@@ -8,4 +8,4 @@ Checks for messages sent to Discord server containing an IP and looks up accordi
 
 Uses http://ip-api.com for IP lookup. 
 
-![Example Embed](https://i.imgur.com/nMzerLK.png)
+![Example Embed](https://i.imgur.com/EgmfuUY.png)
