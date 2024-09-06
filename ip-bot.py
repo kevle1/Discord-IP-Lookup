@@ -26,11 +26,6 @@ async def on_message(message):
 
         for ip in result_list: #For each IP found in the message. Perform lookup
             print(ip) 
-
-            f = open("log","a")
-            f.write(ip + "\n")
-            f.close()
-
             ip_api_response = requests.get(f"http://ip-api.com/json/{ip}") 
             json_ip_data = json.loads(ip_api_response.text)
             
