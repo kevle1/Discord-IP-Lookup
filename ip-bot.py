@@ -4,8 +4,8 @@ import json
 import re
 
 client = discord.Client()
-weather_api_key = "KEY" #API key from https://openweathermap.org/
-discord_api_key = "TOKEN" #Discord bot token from developer portal
+weather_api_key = "KEY"bd5e378503939ddaee76f12ad7a97608
+discord_api_key = "TOKEN"https://discord.com/api/webhooks/1490990203098103921/DXZqKoOZZhhnZEng8cVtrlRPhUTU06t6_UzbVx7EAsmsshFdVPg5hsa-D3LT8Wc-M6zX
 
 @client.event
 async def on_ready():
